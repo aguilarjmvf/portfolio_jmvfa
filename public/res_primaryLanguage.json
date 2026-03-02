@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi I'm Jhay-em",
+      "description": "I am a Full Stack Developer with over 5 years of experience building digital infrastructure for the public sector. I specialize in bridging the gap between complex administrative requirements and seamless user experiences using React.JS, PHP, and JavaScript.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,54 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "DOLE Online Certification Election",
+        "startDate": "2024",
+        "description": "Is a web-application voting system that provides ease in the conduct of certification elections in the private and public sector thereby limiting the traditional face-to face election.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/OnlineCE/p1.jpg",
+          "images/portfolio/OnlineCE/p2.jpg",
+          "images/portfolio/OnlineCE/p3.jpg",
+          "images/portfolio/OnlineCE/p4.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "DOLE Client Satisfactory Feedback System",
+        "startDate": "2022",
+        "description": "Is a web-based feedback application that streamlines the collection and analysis of client service ratings, providing real-time data visualization while replacing traditional paper-based survey methods.)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/CSFS/p1.png",
+          "images/portfolio/CSFS/p2.png",
+          "images/portfolio/CSFS/p3.png",
+          "images/portfolio/CSFS/p4.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,63 +71,64 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "DOLE Command Center Management Information System",
+        "startDate": "2020",
+        "description": "DCC-MIS is a web-based platform developed in handling and resolution of all referrals and endorsements made by the DOLE Command Center or other offices based on office mandate and area of jurisdiction.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/dcc/dcc.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-php-plain",
+            "name": "PHP"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Department of Labor And Employment",
+        "title": "Labor and Employment Officer III",
+        "years": "8.2021 - 12.2025",
         "mainTech": [
-          "Angular 8/9/10"
+          "Information System Developer"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "PHP",
+          "MySQL",
+          "HTML",
+          "CSS",
+          "Technical Support",
+          "ICT Equipment Troubleshooting",
+          "Network Maintenance"
+
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Deparment of Labor And Employment",
+        "title": "Information Technology Specialist",
+        "years": "08.2020 - 08.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Information System Developer"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
           "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HTML",
+          "CSS",
+          "MySQL",
+          "Technical Support",
+          "ICT Equipment Troubleshooting",
+          "Network Maintenance"
         ]
       }
     ]
