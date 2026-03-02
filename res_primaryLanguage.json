@@ -1,0 +1,135 @@
+{
+    "basic_info": {
+      "description_header": "Hi I'm Jhay-em",
+      "description": "I am a Full Stack Developer with over 5 years of experience building digital infrastructure for the public sector. I specialize in bridging the gap between complex administrative requirements and seamless user experiences using React.JS, PHP, and JavaScript.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "DOLE Online Certification Election",
+        "startDate": "2024",
+        "description": "Is a web-application voting system that provides ease in the conduct of certification elections in the private and public sector thereby limiting the traditional face-to face election.",
+        "images": [
+          "images/portfolio/OnlineCE/p1.jpg",
+          "images/portfolio/OnlineCE/p2.jpg",
+          "images/portfolio/OnlineCE/p3.jpg",
+          "images/portfolio/OnlineCE/p4.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "DOLE Client Satisfactory Feedback System",
+        "startDate": "2022",
+        "description": "Is a web-based feedback application that streamlines the collection and analysis of client service ratings, providing real-time data visualization while replacing traditional paper-based survey methods.)",
+        "images": [
+          "images/portfolio/CSFS/p1.png",
+          "images/portfolio/CSFS/p2.png",
+          "images/portfolio/CSFS/p3.png",
+          "images/portfolio/CSFS/p4.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "DOLE Command Center Management Information System",
+        "startDate": "2020",
+        "description": "DCC-MIS is a web-based platform developed in handling and resolution of all referrals and endorsements made by the DOLE Command Center or other offices based on office mandate and area of jurisdiction.",
+        "images": [
+          "images/portfolio/dcc/dcc.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Department of Labor And Employment",
+        "title": "Labor and Employment Officer III",
+        "years": "8.2021 - 12.2025",
+        "mainTech": [
+          "Information System Developer"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "PHP",
+          "MySQL",
+          "HTML",
+          "CSS",
+          "Technical Support",
+          "ICT Equipment Troubleshooting",
+          "Network Maintenance"
+
+        ]
+      },
+      {
+        "company": "Deparment of Labor And Employment",
+        "title": "Information Technology Specialist",
+        "years": "08.2020 - 08.2021",
+        "mainTech": [
+          "Information System Developer"
+        ],
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "MySQL",
+          "Technical Support",
+          "ICT Equipment Troubleshooting",
+          "Network Maintenance"
+        ]
+      }
+    ]
+  }
